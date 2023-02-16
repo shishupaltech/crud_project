@@ -19,13 +19,7 @@
         </div>
     </div>
     <div id="main">
-        <!-- <div id="header">
-            <h2>CRUD OPERATION USING AJAX & PHP  </h2>
-            <div id="search-bar">
-                <label>Search : </label>
-                <input type="text" id="search" onkeyup="load_search()" autocomplete="off">
-            </div>
-        </div> -->
+        
         <div id="table-data">
             <h3>All Records</h3>
             <button class="add_new"  id="addStudentModal">Add New</button>
